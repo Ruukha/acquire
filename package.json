@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ruukha/acquire/issues"
   },
-  "homepage": "https://github.com/ruukha/acquire#readme"
+  "homepage": "https://github.com/ruukha/acquire#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
 }
